@@ -1,6 +1,6 @@
-# Python for AI and Data Science 🚀
+# Python for AI and Data Science 
 
-Repositori ini adalah jurnal belajar harian dan portofolio pengembangan kemampuan saya dalam **Python, Data Science, Artificial Intelligence, dan Robotika**. Fokus utama saya adalah membangun fondasi pemikiran analitis yang kuat dan menerapkannya dalam memecahkan masalah kompleks melalui kode.
+Repositori ini adalah jurnal belajar harian dan portofolio pengembangan kemampuan saya dalam **Python, Data Science dan Artificial Intelligence**. Fokus utama saya adalah membangun fondasi pemikiran analitis yang kuat dan menerapkannya dalam memecahkan masalah kompleks melalui kode.
 
 ## Tech Stack & Tools
 * **Bahasa:** Python 3.x
